@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "predeply": "npm run build",
-    "depoly": "gh-pages -d build",
+    "depoly": "gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
