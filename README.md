@@ -1,14 +1,14 @@
-#Introduction
+# Introduction
 
 This is the source code of my portfolio website. I use the [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) as a template to contain my projects.
 
 ---
 
-## Getting Started 🚀
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites 📋
+### Prerequisites
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.\
 Also you need to have installed [Gatsby CLI](https://www.gatsbyjs.org/docs/quick-start/)
@@ -20,7 +20,7 @@ git@2.17.1 or higher
 gatsby-cli@2.8.22 or higher
 ```
 
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
+Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM
 
 ```
 yarn@v1.21.1 or higher
@@ -28,7 +28,7 @@ yarn@v1.21.1 or higher
 
 ---
 
-## How To Use 🔧
+## How To Use
 
 From your command line, first clone Simplefolio:
 
@@ -209,4 +209,7 @@ $secondary-color: #00cdac;
 
 ## Deployment
 
-I use [GitHub Pages](https://pages.github.com/) to deploy my website, and there are two tutorials to help me to do that: 1.https://www.youtube.com/watch?v=F8s4Ng-re0E <br> 2.https://www.youtube.com/watch?v=ctLFWAanxcI
+I use [GitHub Pages](https://pages.github.com/) to deploy my website, and there are two tutorials to help me to do that:
+
+- https://www.youtube.com/watch?v=F8s4Ng-re0E <br>
+- https://www.youtube.com/watch?v=ctLFWAanxcI
