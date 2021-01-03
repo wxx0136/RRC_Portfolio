@@ -2,6 +2,8 @@
 
 This is the source code of my portfolio website. I use the [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) as a template to contain my projects.
 
+Live Demo: https://wxx0136.github.io/RRC_Portfolio/
+
 ---
 
 ## Getting Started
