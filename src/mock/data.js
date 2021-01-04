@@ -79,7 +79,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/wxx0136/RRC_Portfolio',
+      url: 'https://github.com/wxx0136',
     },
   ],
 };
