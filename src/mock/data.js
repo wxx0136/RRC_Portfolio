@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile_xwei.jpg',
+  img: 'photo.jpg',
   paragraphOne:
     'Hi, I am looking for an opportunity as a “Software Developer”. Currently, I am in my final term of Red River College in the Business Information Technology program and will graduate in December 2020.',
   paragraphTwo:
