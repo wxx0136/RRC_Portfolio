@@ -211,7 +211,6 @@ $secondary-color: #00cdac;
 
 ## Deployment
 
-I use [GitHub Pages](https://pages.github.com/) to deploy my website, and there are two tutorials to help me to do that:
+I use [GitHub Pages](https://pages.github.com/) to deploy my website, and there is a "GitHub Action" tutorial to help me to do that:
 
-- https://www.youtube.com/watch?v=F8s4Ng-re0E <br>
-- https://www.youtube.com/watch?v=ctLFWAanxcI
+- https://www.youtube.com/watch?v=JIMord7-G10 <br>
