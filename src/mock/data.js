@@ -36,7 +36,7 @@ export const projectsData = [
     info:
       'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.',
     info2: '',
-    url: 'https://github.com/wxx0136/XWeather_V2',
+    url: 'https://youtu.be/7ocbZrPZ_3I',
     repo: 'https://github.com/wxx0136/XWeather_V2', // if no repo, the button will not show up
   },
   {
