@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'photo.jpg',
   paragraphOne:
-    'Hi, I am looking for an opportunity as a “Software Engineer”. I just graduated from the Business Information Technology program of Red River College(RRC) in December 2020.',
+    'I am looking for an opportunity as a “Software Engineer”. I just graduated from the Business Information Technology program of Red River College(RRC) in December 2020.',
   paragraphTwo:
-    "Before coming to Canada, I received my Bachelor's degree in Computer Science in China. I worked on Mobile Application (iOS) and Visual Reality (C# on Unity) Software development for several years in two firms.",
+    "Before coming to Canada, I received my Bachelor's degree in Computer Science in China. I worked on Mobile Application(iOS) and Visual Reality(C# on Unity) Software development for several years.",
   paragraphThree:
-    'While living in Winnipeg, I worked on a "Multi-angle Camera System" project as a Researcher Assistant of RRC. And I had a part-time job at ioAirFlow Inc. on a Django based web development project in 2019. From January 2020, I began a Co-op placement at Priceline.com. I used Go, Php, React.js, Git, and Docker to achieve the duties\' requirements.',
+    'While living in Winnipeg, I worked on a "Multi-angle Camera System" project as a Research Assistant of RRC. And I had a part-time job at ioAirFlow Inc. on a Django based web development project in 2019. From January 2020, I began a Co-op placement at Priceline.com. I used Go, Php, React.js, Git, and Docker to achieve the duties\' requirements.',
   resume: 'https://www.linkedin.com/in/xinxin-wei/', // if no resume, the button will not show up
 };
 
