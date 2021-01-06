@@ -53,9 +53,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'project_python.png',
     title: 'Python: Weather Plotter',
-    info:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.',
-    info2: '',
+    info: 'This is a python application to visualize Winnipeg’s historical weather records.',
+    info2:
+      'The project uses HTMLParser class to scrape weather data from the Environment Canada website and save them into an SQLite database. I use CLI to interacts with the application and deploy it on a python online compiler for demonstration. ',
     url: 'https://repl.it/@wxx0136/weatherscraper#README.md',
     repo: 'https://github.com/wxx0136/weather_scraper', // if no repo, the button will not show up
   },
