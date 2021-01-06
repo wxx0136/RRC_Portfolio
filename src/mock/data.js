@@ -32,18 +32,19 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project_android.png',
-    title: 'Android App: Weather Forecast',
-    info: 'Lorem ipsum dolor sit, /n',
-    info2: '',
+    title: 'Android: Weather App',
+    info: 'I use Java to build a Weather Forecast Application on Android.',
+    info2:
+      'This project incorporates the following techniques: Fragment, ScrollView, ListView, PagerAdapter, Activity Lifecycle management, AndroidX PreferenceLibrary, SQLite database, Network Connectivity(Interaction with APIs), JSON Parser, Java Bean, etc.',
     url: 'https://youtu.be/7ocbZrPZ_3I',
     repo: 'https://github.com/wxx0136/XWeather_V2', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project_u3d.png',
-    title: 'Unity3d Game: Flappy Bird',
+    title: 'Unity3d: Flappy Bird',
     info:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.',
+      'I use Unity3d to remaster a famous mobile game - Flappy Bird. The development process helps me to review the C# and game engine knowledge. And I deploy a Gameplay Demo on Github Pages to master more CI/CD skills.',
     info2: '',
     url: 'https://wxx0136.github.io/FlappyBird/',
     repo: 'https://github.com/wxx0136/FlappyBird', // if no repo, the button will not show up
@@ -51,7 +52,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project_python.png',
-    title: 'Python Scraper: Weather Plotter',
+    title: 'Python: Weather Plotter',
     info:
       'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.',
     info2: '',
