@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'photo.jpg',
   paragraphOne:
-    'I am looking for an opportunity as a “Software Engineer”. I just graduated from the Business Information Technology program of Red River College(RRC) in December 2020.',
+    'I am looking for an opportunity as a “Software Engineer”. I just graduated from the Business Information Technology program of Red River College(GPA 4.48/4.5) in December 2020.',
   paragraphTwo:
     "Before coming to Canada, I received my Bachelor's degree in Computer Science in China. I worked on Mobile Application(iOS) and Visual Reality(C# on Unity) Software development for several years.",
   paragraphThree:
